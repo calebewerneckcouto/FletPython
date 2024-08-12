@@ -1,0 +1,2 @@
+coomando rodar flet
+flet run --web teste.py
